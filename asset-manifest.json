@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.b595c22e.css",
-    "main.js": "./static/js/main.78b3e89d.js",
+    "main.css": "./static/css/main.a7b74b6c.css",
+    "main.js": "./static/js/main.03fbd0d3.js",
+    "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
+    "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
+    "static/media/category-accessories.png": "./static/media/category-accessories.e47d6d6df68a6548e82b.png",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.a962057c1043a08f7737.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.9d041d850aa94116de68.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.722f4514b18a2ac866b6.otf",
@@ -10,16 +13,19 @@
     "static/media/banner-accessories.png": "./static/media/banner-accessories.bdd2e0fca0159e52f41c.png",
     "static/media/cart.svg": "./static/media/cart.89133a0a9c316350dc18.svg",
     "static/media/heart.svg": "./static/media/heart.420ab37df22dfad9055f.svg",
+    "static/media/Icons_Home.svg": "./static/media/Icons_Home.e6839de59c42f3b9df40.svg",
     "static/media/HeaderLogo.svg": "./static/media/HeaderLogo.2d8d3e42e8ed3af32cbb.svg",
+    "static/media/HeartActive.svg": "./static/media/HeartActive.97cc40bc4f638d818109.svg",
     "static/media/Search.svg": "./static/media/Search.1e77bbf11368a75dc2b8.svg",
+    "static/media/Close.svg": "./static/media/Close.d99189a57063cb02e093.svg",
     "static/media/arrowRight.svg": "./static/media/arrowRight.a374b573155c92815583.svg",
     "static/media/arrowLeft.svg": "./static/media/arrowLeft.91a03a1d1e7f575d87e5.svg",
     "index.html": "./index.html",
-    "main.b595c22e.css.map": "./static/css/main.b595c22e.css.map",
-    "main.78b3e89d.js.map": "./static/js/main.78b3e89d.js.map"
+    "main.a7b74b6c.css.map": "./static/css/main.a7b74b6c.css.map",
+    "main.03fbd0d3.js.map": "./static/js/main.03fbd0d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b595c22e.css",
-    "static/js/main.78b3e89d.js"
+    "static/css/main.a7b74b6c.css",
+    "static/js/main.03fbd0d3.js"
   ]
 }
