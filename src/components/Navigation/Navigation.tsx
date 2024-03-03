@@ -1,28 +1,42 @@
+import { NavLink } from 'react-router-dom';
 import './Navigation.scss';
+import { memo } from 'react';
 
-export const Navigation = () => {
+export const Navigation = memo(() => {
   return (
     <ul className="navigation">
       <li>
-        <a className="font_uppercase navigation__link" href="/">
+        <NavLink
+          to="/"
+          className="navigation__link"
+        >
           home
-        </a>
+        </NavLink>
       </li>
       <li>
-        <a className="font_uppercase navigation__link" href="/">
+        <NavLink
+          to="phones"
+          className="navigation__link"
+        >
           phones
-        </a>
+        </NavLink>
       </li>
       <li>
-        <a className="font_uppercase navigation__link" href="/">
+        <NavLink
+          to="tablets"
+          className="navigation__link"
+        >
           tablets
-        </a>
+        </NavLink>
       </li>
       <li>
-        <a className="font_uppercase navigation__link" href="/">
+        <NavLink
+          to="accessories"
+          className="navigation__link"
+        >
           accessories
-        </a>
+        </NavLink>
       </li>
     </ul>
   );
-};
+});
